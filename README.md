@@ -1,13 +1,10 @@
-# learn-yeoman
+这是通过yeoman构建的 AngularJs小应用，可以添加删除移动Todo项 并将数据保存在本地<br>
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+![](https://github.com/hyhajnal/Learn_AngularJs_Todo/blob/master/show.png) 
 
 ## Build & development
 
-1.Sure yo have node.js installed
-2.Run `npm install` and `bower install` for building 
-3.`grunt serve` for preview at `http://localhost:9000`
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+1.安装`nodejs`和`npm`<br>
+2.`npm install` and `bower install`安装一些包<br> 
+3.`grunt serve` 运行<br>
+4.然后你可以在此看到效果`http://localhost:9000`<br>
